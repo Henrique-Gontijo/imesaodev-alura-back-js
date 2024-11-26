@@ -1,0 +1,5 @@
+node_modules
+.API_key.txt
+.API_key2.txt
+.mongoDB_acesso.txt
+.env
